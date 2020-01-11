@@ -1,0 +1,13 @@
+{
+  "name": "sorting-visualizer",
+  "version": "1.0.0",
+  "description": "Implementation of various sorting algorithms",
+  "private": true,
+  "repository": "git@github.com:ShaneRich5/sorting-visualizer.git",
+  "author": "Shane Richards <shane.richards121@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
