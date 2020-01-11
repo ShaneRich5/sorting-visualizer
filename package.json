@@ -6,7 +6,11 @@
   "repository": "git@github.com:ShaneRich5/sorting-visualizer.git",
   "author": "Shane Richards <shane.richards121@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   }
